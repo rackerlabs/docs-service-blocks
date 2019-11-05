@@ -13,13 +13,13 @@ Rackspace Professional Services Service Block Descriptions:
    * - Assessment & Strategy
      - Process Transformation
      - Migration Services
-     - Architecture & Design
-   * - Application Implementation
+   * - Architecture & Design
+     - Application Implementation
      - Application Modernization
-     - DevOps Transformation
+   * - DevOps Transformation
      - Cloud Ops Transformation
-   * - Integration Services
-     - Data Modernization
+     - Integration Services
+   * - Data Modernization
      - Training & Adoption
      - Security & Governance
 
