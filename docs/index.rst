@@ -28,6 +28,7 @@ Rackspace Professional Services Service Block Descriptions:
 .. toctree::
    :maxdepth: 2
 
+   self
    assessment-strategy/index.rst
    process-transformation/index.rst
    migration-services/index.rst
