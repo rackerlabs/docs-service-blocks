@@ -34,7 +34,7 @@ effectively and ultimately improve their end-user experience​.
      - De-risk their transformation with the support of certified service
        management professionals, safeguarding their reputation, brand, and
        revenue
-       
+
 
 Capabilities
 ------------

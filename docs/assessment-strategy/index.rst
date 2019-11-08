@@ -72,7 +72,8 @@ A practical consulting engagement that helps define what cloud should
 deliver for the customer’s business. Rackspace experts collaborate with
 the organization’s in-house team to design a high-level strategy that
 contrasts current state with the organization’s cloud vision, outlining
-impact, timelines, risks, costs and architectural and resource considerations. ​
+impact, timelines, risks, costs and architectural and resource
+considerations. ​
 
 **Cloud Transformation Foundations**
 

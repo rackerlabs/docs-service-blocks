@@ -17,6 +17,7 @@ minimize impact. ​
 
 .. list-table::
    :header-rows: 1
+
    * - What we do
      - What it means for a customer's business
    * - Assess the customer's infrastructure, application, data, and security
