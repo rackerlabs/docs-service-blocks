@@ -17,7 +17,7 @@ Rackspace Professional Services Service Block Descriptions:
      - Application Implementation
      - Application Modernization
    * - DevOps Transformation
-     - Cloud Ops Transformation
+     - CloudOps Transformation
      - Integration Services
    * - Data Modernization
      - Training & Adoption
@@ -36,7 +36,7 @@ Rackspace Professional Services Service Block Descriptions:
    application-implementation/index.rst
    application-modernization/index.rst
    devops-transformation/index.rst
-   cloud-ops-transformation/index.rst
+   cloudops-transformation/index.rst
    integration-services/index.rst
    data-modernization/index.rst
    training-adoption/index.rst
