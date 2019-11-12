@@ -19,6 +19,7 @@ design and deliver meaningful change.
 .. toctree::
    :maxdepth: 2
 
+   Professional Services - Service Blocks <self>
    assessment-strategy/index.rst
    process-transformation/index.rst
    migration-services/index.rst
