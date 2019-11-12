@@ -6,22 +6,13 @@ Rackspace |product name| Descriptions
 
 *Last updated:* |today|
 
-Rackspace Professional Services Service Block Descriptions:
+Rackspace Professional Services are designed to make organizations more
+agile, more quickly. Whether you are optimizing your continuous delivery
+pipeline, embarking on a high profile migration or advancing your cloud
+capabilities, our practical consultative approach helps businesses
+design and deliver meaningful change.
 
-.. list-table::
-
-   * - Assessment & Strategy
-     - Process Transformation
-     - Migration Services
-   * - Architecture & Design
-     - Application Implementation
-     - Application Modernization
-   * - DevOps Transformation
-     - CloudOps Transformation
-     - Integration Services
-   * - Data Modernization
-     - Training & Adoption
-     - Security & Governance
+.. image:: assets/service-blocks-table.png
 
 ----
 
