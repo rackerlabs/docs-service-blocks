@@ -4,5 +4,5 @@
    :includehidden:
    :maxdepth: 99
 
-   |product name| v# <self>
+   |product name| <self>
    index.rst
