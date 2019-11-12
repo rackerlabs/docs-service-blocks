@@ -12,7 +12,7 @@ pipeline, embarking on a high profile migration or advancing your cloud
 capabilities, our practical consultative approach helps businesses
 design and deliver meaningful change.
 
-.. image:: assets/service-blocks-table.png
+.. image:: assets/service-blocks.png
 
 ----
 
