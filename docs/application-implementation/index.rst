@@ -17,7 +17,7 @@ your business processes. ​
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Application installation on-premise or in the cloud using best practices
        on the target deployment environment
      - A custom engineered solution installed in less time

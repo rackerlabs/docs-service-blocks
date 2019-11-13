@@ -21,7 +21,7 @@ prioritize ongoing optimization, continuous improvement and ease of management.
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Identify the specific business drivers behind the customer's
        architectural decisions
      - An enterprise architecture approach aligned to the customer's business

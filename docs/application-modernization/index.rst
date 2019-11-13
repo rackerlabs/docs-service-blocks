@@ -18,7 +18,7 @@ technologies. ​
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Deep dive review of the process and technology (assess current state of
        applications) to identify opportunities for optimization
      - Business processes are redesigned first, so that any new applications

@@ -17,7 +17,7 @@ options based on high-level technical and business analysis.
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Help define the role of the technology and what it should deliver for
        the customer
      - An unbiased perspective on the right adoption strategy for the

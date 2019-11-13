@@ -23,7 +23,7 @@ disruption, all while tailoring the plan to the business needs.​
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Profile the application landscape and user stories
      - Planning is built on the customer's business context and user
        requirements
@@ -34,7 +34,7 @@ disruption, all while tailoring the plan to the business needs.​
      - Expert direction that creates program confidence and momentum
    * - Apply our service factory methodology
      - Develop a repeatable, robust, and rapid approach to migration
-   * - Take the customer through the production stability and continuity
+   * - Take the customer through to production stability and continuity
        in their new environment
      - Shared responsibility for successful delivery
 

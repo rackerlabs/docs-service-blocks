@@ -18,7 +18,7 @@ data-driven decisions.​
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Identify the customer's business, data, application, and operational
        requirements
      - A data analysis strategy and architecture that is specific to the
