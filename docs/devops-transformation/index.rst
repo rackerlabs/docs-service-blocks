@@ -17,7 +17,7 @@ running systems.​
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Accelerate the customer's ability to automate the orchestration and
        management of cloud infrastructure
      - Making the customer's operations a seamless fabric with an
@@ -44,7 +44,7 @@ Capabilities
 **Container Enablement**
 
 Rackspace Consultants assess the customer's application portfolio and deploy
-a container solutions based on best practice methods that have been tested
+a container solution based on best practice methods that have been tested
 and refined with a complete deployment automation package.​
 
 **DevOps Consulting**

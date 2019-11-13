@@ -15,7 +15,7 @@ effectively and ultimately improve their end-user experience​.
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Assess the customer's current operating environment, processes, and
        capabilities to create their operational baseline
      - A clear picture of the customer's current operational capabilities as

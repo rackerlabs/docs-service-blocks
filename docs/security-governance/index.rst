@@ -19,7 +19,7 @@ minimize impact. ​
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Assess the customer's infrastructure, application, data, and security
        posture
      - An expert and unbiased risk and security analysis of the customer's

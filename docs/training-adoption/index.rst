@@ -13,7 +13,7 @@ specific application workloads or solutions.
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - UAT Training for application super users
      - Create super users in the customer's organization who understand the
        system inside and out

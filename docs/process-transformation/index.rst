@@ -18,7 +18,7 @@ processes.
    :header-rows: 1
 
    * - What we do
-     - What it means for a customer's business
+     - What it means for our customers
    * - Review business objectives and compare them to current results
      - Updated processes to support the new business model and technical
        capabilities
