@@ -14,5 +14,5 @@ We welcome feedback, comments, and bug reports. Follow the [contributor guidelin
 to propose a source file change, or [submit a GitHub issue](https://github.com/rackerlabs/docs-service-blocks/issues/new)
 to request an update or to provide feedback.
 
-You can also contact the [Rackspace documentation team](mailto:devdoc@rackspace.com) directly for general
+You can also contact the [Rackspace documentation team](mailto:infodev@rackspace.com) directly for general
 issues or questions about the content.
