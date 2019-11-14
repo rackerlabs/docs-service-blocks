@@ -18,6 +18,7 @@ design and deliver meaningful change.
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    Professional Services - Service Blocks <self>
    assessment-strategy/index.rst
