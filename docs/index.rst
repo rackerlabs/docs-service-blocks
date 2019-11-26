@@ -9,8 +9,9 @@ Rackspace |product name| Descriptions
 Rackspace Professional Services are designed to make organizations more
 agile, more quickly. Whether you are optimizing your continuous delivery
 pipeline, embarking on a high profile migration or advancing your cloud
-capabilities, our practical consultative approach helps businesses
-design and deliver meaningful change.
+capabilities, our practical consultative approach helps
+businesses design and deliver meaningful change.
+
 
 .. image:: assets/service-blocks.png
 
