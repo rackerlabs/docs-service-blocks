@@ -14,6 +14,14 @@ design and deliver meaningful change.
 
 .. image:: assets/service-blocks.png
 
+.. list-table::
+   :header-rows: 1
+
+   - ..image:: assets/assessment-strategy.png
+       :target: :ref:'assessment-strategy'
+   - ..image:: assets/application-implementation.png
+       :target: :ref:`application-implementation`
+
 ----
 
 .. toctree::
