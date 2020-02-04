@@ -15,7 +15,7 @@ design and deliver meaningful change.
 .. image:: assets/service-blocks.png
 
 .. list-table::
-   :header-rows: 1
+   :header-rows: 0
 
    - ..image:: assets/assessment-strategy.png
        :target: :ref:'assessment-strategy'
