@@ -108,9 +108,10 @@ function ThemeNav () {
             .wrap("<div class='wy-table-responsive footnote'></div>");
         $("table.docutils.citation")
             .wrap("<div class='wy-table-responsive citation'></div>");
+
         // Add expand links to all parents of nested ul
         $('.wy-menu-vertical ul').not('.simple').siblings('a').each(function () {
-            console.log('link:: ', link);
+            var link = $(this);
                 expand = $('<span class="toctree-expand"></span>');
             expand.on('click', function (ev) {
                 self.toggleCurrent(link);
