@@ -3,13 +3,13 @@
   NODE_VERSION = "12.16.3"
 
 [build]
-  publish = "_build/html"
+  publish = "docs/_build/html"
   command = "npm run build"
 
 [context.production]
-  publish = "_build/html"
+  publish = "docs/_build/html"
   command = "npm run build"
 
 [context.deploy-preview]
-  publish = "_build/html"
+  publish = "docs/_build/html"
   command = "npm run build"
