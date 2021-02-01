@@ -1,26 +1,16 @@
+
 [build.environment]
   NPM_VERSION = "6.14.8"
   NODE_VERSION = "12.16.3"
 
 [build]
   publish = "docs/_build/html"
-  command = "npm run build"
+  command = "cd docs && make clean html && cd .."
 
 [context.production]
   publish = "docs/_build/html"
-  command = "npm run build"
+  command = "cd docs && make clean html && cd .."
 
 [context.deploy-preview]
   publish = "docs/_build/html"
-  command = "npm run build"
-
-[[redirects]]
-  from = "/"
-  to = "/docs/service-blocks"
-  status = 301
-  force = false
-[[redirects]]
-  from = "/*"
-  to = "/docs/service-blocks/:splat"
-  status = 301
-  force = false
+  command = "cd docs && make clean html && cd .."

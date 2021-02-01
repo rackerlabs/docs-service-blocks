@@ -1,0 +1,8 @@
+{
+    "contentIDBase": "https://github.com/rackerlabs/docs-service-blocks/",
+    "githubUrl": "https://github.com/rackerlabs/docs-service-blocks/",
+    "githubBranch": "master",
+    "meta": {
+      "preferGithubIssues": true
+    }
+  }

@@ -13,6 +13,15 @@ import sys
 from datetime import datetime
 from os import path
 
+try:
+    import sphinx_rtd_theme
+except ImportError:
+    sphinx_rtd_theme = None
+
+try:
+    from sphinxcontrib import spelling
+except:
+    spelling = None
 # If your extensions are in another directory, add it here. If the directory
 # is relative to the documentation root, use os.path.abspath to make it
 # absolute, like shown here.
@@ -37,6 +46,8 @@ extensions = [
     'sphinx.ext.todo'
 ]
 
+if spelling is not None:
+    extensions.append('sphinxcontrib.spelling')
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
@@ -52,6 +63,7 @@ master_doc = 'index'
 # General information about the project.
 project = 'Professional Services - Service Block Descriptions'
 copyright = '2019, Rackspace'
+author = 'Rackspace'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -314,6 +326,15 @@ intersphinx_mapping = {
     'tox': ('https://tox.readthedocs.io/en/latest', None)
 }
 
+# SCVersioning.
+#scv_banner_greatest_tag = True
+scv_grm_exclude = ('.gitignore', '.nojekyll', 'README.rst')
+scv_show_banner = True
+#scv_banner_recent_tag = True
+svc_banner_main_ref = 'master'
+scv_sort = ('semver', 'time')
+scv_root_ref = 'master'
+svc_priority = 'branches'
 
 # Options for sphinx-hoverxref options
 # ------------------------------------
