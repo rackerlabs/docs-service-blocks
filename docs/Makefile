@@ -40,14 +40,14 @@ clean:
 	rm -rf $(BUILDDIR)/*
 
 htmlvers:
-	$(SPHINXVERS) -l conf.py build $(DOCDIR)/ $(BUILDDIR)/html/
+	$(SPHINXVERS) -l conf.py build $(DOCDIR)/ $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
 html:
-	$(SPHINXBUILD) -E -q -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	$(SPHINXBUILD) -E -q -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html/docs/service-blocks
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html/docs/service-blocks."
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
