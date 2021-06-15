@@ -2,11 +2,21 @@
 
 This repository contains the source files that generate the Professional Services Service Blocks Descriptions:
 
-* https://developer.rackspace.com/docs/docs-service-blocks/
+* <https://developer.rackspace.com/docs/docs-service-blocks/>
 
 When you commit changes to the master branch of this repository, the
 [Strider CI/CD build job](https://build.developer.rackspace.com/rackerlabs/docs-service-blocks/)
 builds the documentation. Successful builds are deployed to production.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ef3a38f-5033-4f5c-9b59-b1c97be4a966/deploy-status)](https://app.netlify.com/sites/docs-service-blocks/deploys)
+
+## Local Setup
+
+`npm i -g netlify-cli`
+`netlify init`
+`netlify build`
+`netlify dev`
+`netlify deploy`
 
 ### Support and feedback
 
