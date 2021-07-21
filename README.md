@@ -4,9 +4,8 @@ This repository contains the source files that generate the Professional Service
 
 * <https://developer.rackspace.com/docs/docs-service-blocks/>
 
-When you commit changes to the master branch of this repository, the
-[Strider CI/CD build job](https://build.developer.rackspace.com/rackerlabs/docs-service-blocks/)
-builds the documentation. Successful builds are deployed to production.
+When you commit changes to the master branch of this repository, Netlify
+builds the documentation. Successful builds deploy to production.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ef3a38f-5033-4f5c-9b59-b1c97be4a966/deploy-status)](https://app.netlify.com/sites/docs-service-blocks/deploys)
 
